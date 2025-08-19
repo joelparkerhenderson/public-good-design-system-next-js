@@ -1,0 +1,84 @@
+{
+  "components": {
+    "characterCount": {
+      "charactersRemaining": "Te {count, plural, one {queda} other {quedan}} {count} {count, plural, one {carácter} other {caracteres}}",
+      "charactersOverLimit": "Te {count, plural, one {sobra} other {sobran}} {count} {count, plural, one {carácter} other {caracteres}}",
+      "wordsRemaining": "Te {count, plural, one {queda} other {quedan}} {count} {count, plural, one {palabra} other {palabras}}",
+      "wordsOverLimit": "Te {count, plural, one {sobra} other {sobran}} {count} {count, plural, one {palabra} other {palabras}}",
+      "maxCharacters": "Puedes introducir hasta {max} caracteres",
+      "maxWords": "Puedes introducir hasta {max} palabras"
+    },
+    "errorSummary": {
+      "title": "Hay un problema",
+      "description": "Revisa lo siguiente:"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "page": "Página {page}",
+      "currentPage": "Página {page} (página actual)",
+      "of": "de"
+    },
+    "skipLink": {
+      "skipToMainContent": "Saltar al contenido principal"
+    },
+    "details": {
+      "show": "Mostrar",
+      "hide": "Ocultar"
+    },
+    "tabs": {
+      "contents": "Contenidos"
+    },
+    "breadcrumb": {
+      "ariaLabel": "Migas de pan"
+    },
+    "backLink": {
+      "back": "Atrás"
+    },
+    "notificationBanner": {
+      "important": "Importante",
+      "success": "Éxito"
+    },
+    "warningCallout": {
+      "warning": "Advertencia"
+    },
+    "insetText": {
+      "information": "Información"
+    },
+    "tag": {
+      "new": "Nuevo",
+      "updated": "Actualizado",
+      "completed": "Completado",
+      "inProgress": "En progreso"
+    }
+  },
+  "errors": {
+    "required": "Este campo es obligatorio",
+    "invalidEmail": "Introduce una dirección de correo electrónico válida",
+    "invalidPhoneNumber": "Introduce un número de teléfono válido",
+    "invalidNhsNumber": "Introduce un número NHS válido",
+    "tooShort": "Debe tener al menos {min} caracteres",
+    "tooLong": "No debe tener más de {max} caracteres"
+  },
+  "accessibility": {
+    "error": "Error",
+    "warning": "Advertencia",
+    "required": "Obligatorio",
+    "optional": "Opcional",
+    "newWindow": "Se abre en ventana nueva",
+    "closeDialog": "Cerrar diálogo",
+    "openDialog": "Abrir diálogo"
+  },
+  "common": {
+    "yes": "Sí",
+    "no": "No",
+    "cancel": "Cancelar",
+    "continue": "Continuar",
+    "submit": "Enviar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "close": "Cerrar",
+    "open": "Abrir"
+  }
+}

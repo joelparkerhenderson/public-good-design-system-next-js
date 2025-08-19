@@ -1,0 +1,84 @@
+{
+  "components": {
+    "characterCount": {
+      "charactersRemaining": "Mae gennych {count} {count, plural, one {nod} other {nod}} ar ôl",
+      "charactersOverLimit": "Mae gennych {count} {count, plural, one {nod} other {nod}} yn ormod",
+      "wordsRemaining": "Mae gennych {count} {count, plural, one {gair} other {gair}} ar ôl",
+      "wordsOverLimit": "Mae gennych {count} {count, plural, one {gair} other {gair}} yn ormod",
+      "maxCharacters": "Gallwch chi fewnbynnu hyd at {max} nod",
+      "maxWords": "Gallwch chi fewnbynnu hyd at {max} gair"
+    },
+    "errorSummary": {
+      "title": "Mae problem",
+      "description": "Gwiriwch y canlynol:"
+    },
+    "pagination": {
+      "previous": "Blaenorol",
+      "next": "Nesaf",
+      "page": "Tudalen {page}",
+      "currentPage": "Tudalen {page} (tudalen gyfredol)",
+      "of": "o"
+    },
+    "skipLink": {
+      "skipToMainContent": "Ewch i'r prif gynnwys"
+    },
+    "details": {
+      "show": "Dangos",
+      "hide": "Cuddio"
+    },
+    "tabs": {
+      "contents": "Cynnwys"
+    },
+    "breadcrumb": {
+      "ariaLabel": "Llwybr briwsion bara"
+    },
+    "backLink": {
+      "back": "Yn ôl"
+    },
+    "notificationBanner": {
+      "important": "Pwysig",
+      "success": "Llwyddiant"
+    },
+    "warningCallout": {
+      "warning": "Rhybudd"
+    },
+    "insetText": {
+      "information": "Gwybodaeth"
+    },
+    "tag": {
+      "new": "Newydd",
+      "updated": "Wedi'i ddiweddaru",
+      "completed": "Wedi'i gwblhau",
+      "inProgress": "Ar y gweill"
+    }
+  },
+  "errors": {
+    "required": "Mae'r maes hwn yn ofynnol",
+    "invalidEmail": "Rhowch gyfeiriad e-bost dilys",
+    "invalidPhoneNumber": "Rhowch rif ffôn dilys",
+    "invalidNhsNumber": "Rhowch rif GIG dilys",
+    "tooShort": "Rhaid bod o leiaf {min} nod",
+    "tooLong": "Rhaid bod dim mwy na {max} nod"
+  },
+  "accessibility": {
+    "error": "Gwall",
+    "warning": "Rhybudd",
+    "required": "Gofynnol",
+    "optional": "Dewisol",
+    "newWindow": "Yn agor mewn ffenestr newydd",
+    "closeDialog": "Cau'r ddeialog",
+    "openDialog": "Agor deialog"
+  },
+  "common": {
+    "yes": "Ydw",
+    "no": "Nac ydw",
+    "cancel": "Canslo",
+    "continue": "Parhau",
+    "submit": "Cyflwyno",
+    "save": "Cadw",
+    "edit": "Golygu",
+    "delete": "Dileu",
+    "close": "Cau",
+    "open": "Agor"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "home": {
+    "title": "Public Good Design System",
+    "description": "A modern, accessible React component library converted from NHS UK Design System, built with Next.js, TypeScript, and styled-components.",
+    "viewDocs": "View component documentation",
+    "designTokens": {
+      "title": "🎨 Design Tokens",
+      "description": "Comprehensive design tokens including colors, typography, spacing, and breakpoints converted from NHS UK Design System."
+    },
+    "accessibility": {
+      "title": "♿ Accessibility First", 
+      "description": "WCAG AA compliant components with built-in keyboard navigation, screen reader support, and focus management."
+    },
+    "i18n": {
+      "title": "🌍 Internationalization",
+      "description": "Multi-language support including English, Welsh, Arabic, Chinese, and Spanish with RTL layout support."
+    },
+    "testing": {
+      "title": "🧪 Testing",
+      "description": "Comprehensive testing with Vitest for unit tests and Playwright for end-to-end testing across all components."
+    },
+    "components": {
+      "title": "📦 40 Components",
+      "description": "Complete set of UI components converted from NHS UK Design System, including buttons, forms, navigation, and layout components."
+    },
+    "nextjs": {
+      "title": "🚀 Next.js Ready", 
+      "description": "Optimized for Next.js with server-side rendering, static generation, and modern React patterns."
+    },
+    "status": {
+      "title": "Development Status",
+      "setup": "Project Setup",
+      "foundation": "Design System Foundation", 
+      "conversion": "Component Conversion",
+      "testing": "Testing Infrastructure",
+      "docs": "Documentation",
+      "complete": "Complete",
+      "ready": "Ready"
+    }
+  },
+  "components": {
+    "characterCount": {
+      "charactersRemaining": "You have {count} {count, plural, one {character} other {characters}} remaining",
+      "charactersOverLimit": "You have {count} {count, plural, one {character} other {characters}} too many",
+      "wordsRemaining": "You have {count} {count, plural, one {word} other {words}} remaining", 
+      "wordsOverLimit": "You have {count} {count, plural, one {word} other {words}} too many",
+      "maxCharacters": "You can enter up to {max} characters",
+      "maxWords": "You can enter up to {max} words"
+    },
+    "errorSummary": {
+      "title": "There is a problem",
+      "description": "Check the following:"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Page {page}",
+      "currentPage": "Page {page} (current page)",
+      "of": "of"
+    },
+    "skipLink": {
+      "skipToMainContent": "Skip to main content"
+    },
+    "details": {
+      "show": "Show",
+      "hide": "Hide"
+    },
+    "tabs": {
+      "contents": "Contents"
+    },
+    "breadcrumb": {
+      "ariaLabel": "Breadcrumb"
+    },
+    "backLink": {
+      "back": "Back"
+    },
+    "notificationBanner": {
+      "important": "Important",
+      "success": "Success"
+    },
+    "warningCallout": {
+      "warning": "Warning"
+    },
+    "insetText": {
+      "information": "Information"
+    },
+    "tag": {
+      "new": "New",
+      "updated": "Updated",
+      "completed": "Completed",
+      "inProgress": "In progress"
+    }
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Enter a valid email address",
+    "invalidPhoneNumber": "Enter a valid phone number",
+    "invalidNhsNumber": "Enter a valid NHS number",
+    "tooShort": "Must be at least {min} characters",
+    "tooLong": "Must be no more than {max} characters"
+  },
+  "accessibility": {
+    "error": "Error",
+    "warning": "Warning", 
+    "required": "Required",
+    "optional": "Optional",
+    "newWindow": "Opens in new window",
+    "closeDialog": "Close dialog",
+    "openDialog": "Open dialog"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "submit": "Submit",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "open": "Open"
+  }
+}

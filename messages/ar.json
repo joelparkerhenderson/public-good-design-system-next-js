@@ -1,0 +1,84 @@
+{
+  "components": {
+    "characterCount": {
+      "charactersRemaining": "لديك {count} {count, plural, one {حرف} other {حرف}} متبقي",
+      "charactersOverLimit": "لديك {count} {count, plural, one {حرف} other {حرف}} زائد",
+      "wordsRemaining": "لديك {count} {count, plural, one {كلمة} other {كلمة}} متبقية",
+      "wordsOverLimit": "لديك {count} {count, plural, one {كلمة} other {كلمة}} زائدة",
+      "maxCharacters": "يمكنك إدخال ما يصل إلى {max} حرف",
+      "maxWords": "يمكنك إدخال ما يصل إلى {max} كلمة"
+    },
+    "errorSummary": {
+      "title": "هناك مشكلة",
+      "description": "تحقق من التالي:"
+    },
+    "pagination": {
+      "previous": "السابق",
+      "next": "التالي",
+      "page": "صفحة {page}",
+      "currentPage": "صفحة {page} (الصفحة الحالية)",
+      "of": "من"
+    },
+    "skipLink": {
+      "skipToMainContent": "انتقل إلى المحتوى الرئيسي"
+    },
+    "details": {
+      "show": "إظهار",
+      "hide": "إخفاء"
+    },
+    "tabs": {
+      "contents": "المحتويات"
+    },
+    "breadcrumb": {
+      "ariaLabel": "التنقل الهرمي"
+    },
+    "backLink": {
+      "back": "رجوع"
+    },
+    "notificationBanner": {
+      "important": "هام",
+      "success": "نجح"
+    },
+    "warningCallout": {
+      "warning": "تحذير"
+    },
+    "insetText": {
+      "information": "معلومات"
+    },
+    "tag": {
+      "new": "جديد",
+      "updated": "محدث",
+      "completed": "مكتمل",
+      "inProgress": "قيد التنفيذ"
+    }
+  },
+  "errors": {
+    "required": "هذا الحقل مطلوب",
+    "invalidEmail": "أدخل عنوان بريد إلكتروني صحيح",
+    "invalidPhoneNumber": "أدخل رقم هاتف صحيح",
+    "invalidNhsNumber": "أدخل رقم NHS صحيح",
+    "tooShort": "يجب أن يكون على الأقل {min} حرف",
+    "tooLong": "يجب أن يكون أكثر من {max} حرف"
+  },
+  "accessibility": {
+    "error": "خطأ",
+    "warning": "تحذير",
+    "required": "مطلوب",
+    "optional": "اختياري",
+    "newWindow": "يفتح في نافذة جديدة",
+    "closeDialog": "إغلاق الحوار",
+    "openDialog": "فتح الحوار"
+  },
+  "common": {
+    "yes": "نعم",
+    "no": "لا",
+    "cancel": "إلغاء",
+    "continue": "متابعة",
+    "submit": "إرسال",
+    "save": "حفظ",
+    "edit": "تحرير",
+    "delete": "حذف",
+    "close": "إغلاق",
+    "open": "فتح"
+  }
+}
